@@ -3,6 +3,27 @@
     --hover-color: #b6c6be;
 }
 
+.dropdown-container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.dropdown {
+    padding: 10px 30px;
+    border-radius: 8px;
+    border: 2px solid #095725;
+    background-color: #f4f4f4;
+    cursor: pointer;
+}
+
+.profile-card-container {
+    transform: translateY(0);
+    transition: transform 0.5s ease-in-out;
+}
+
+.profile-card-container:hover {
+    transform: translateY(-10px);
+}
 
 .profile-card__card {
     width: 490px;

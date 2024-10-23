@@ -3,7 +3,7 @@ import ProfileCard from "../../components/Profile/ProfileCard";
 
 const AllPlayers = () => {
     return (
-        <div>
+        <div className="mt-10">
             <ProfileCard></ProfileCard>
         </div>
     );
