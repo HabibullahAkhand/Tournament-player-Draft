@@ -1,0 +1,149 @@
+:root {
+    --prime-color: #095725;
+    --hover-color: #b6c6be;
+}
+
+
+.profile-card__card {
+    width: 490px;
+    height: 490px;
+    background: white;
+    border-radius: 30px;
+    position: relative;
+    transition: 0.5s ease-in-out;
+    overflow: hidden;
+    border: 15px solid black;
+}
+
+.profile-card__profile-pic {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    border-radius: 10px;
+    z-index: 1;
+    border: 5px solid white;
+    overflow: hidden;
+    transition: 0.5s ease-in-out 0.3s;
+}
+
+.profile-card__profile-pic img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: relative;
+    top: 0;
+    transition: 0.5s ease-in-out;
+}
+
+.profile-card__card:hover .profile-card__profile-pic {
+    width: 150px;
+    height: 150px;
+    top: 10px;
+    left: 10px;
+    border-radius: 50%;
+    border: 5px solid var(--prime-color);
+    box-shadow: 0 0 10px #1115;
+    transition: 0.5s ease-in-out;
+    z-index: 3;
+}
+
+.profile-card__card:hover .profile-card__profile-pic img {
+    transform: scale(1.6);
+    top: 20px;
+    transition: 0.5s ease-in-out 0.5s;
+}
+
+.profile-card__details {
+    position: absolute;
+    left: 4px;
+    right: 4px;
+    bottom: 4px;
+    z-index: 2;
+    top: 80%;
+    background: var(--prime-color);
+    color: white;
+    border-radius: 25px;
+    box-shadow: inset 5px 5px 10px #1114;
+    transition: 0.3s ease-in-out 0.2s;
+    overflow: hidden;
+}
+
+.profile-card__card:hover .profile-card__details {
+    top: 20%;
+    border-radius: 80px 25px 25px 25px;
+    transition: 0.5s ease-in-out 0.2s;
+}
+
+.profile-card__content {
+    position: absolute;
+    top: -300px;
+    left: 20px;
+    opacity: 0;
+    transition: 0.5s ease-in-out 0s;
+}
+
+.profile-card__card:hover .profile-card__content {
+    top: 10px;
+    opacity: 1;
+    transition: 0.5s ease-in-out 0.5s, opacity 0.5s ease-in-out 1s;
+}
+
+.profile-card__content h2 {
+    margin-left: 150px;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.profile-card__tag {
+    margin-left: 150px;
+    font-size: 1.6rem;
+    letter-spacing: 2px;
+    font-weight: 200;
+}
+
+.profile-card__about {
+    font-size: 1.3rem;
+    margin-top: 40px;
+    width: 80%;
+}
+
+.profile-card__buttons {
+    /* font-size: 1.2rem; */
+    position: absolute;
+    bottom: 22px;
+    width: 100%;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.profile-card__social {
+    font-size: 1.2rem;
+    display: flex;
+    gap: 15px;
+}
+
+.profile-card__social i {
+    color: white;
+    cursor: pointer;
+}
+
+.profile-card__social i:hover {
+    color: var(--hover-color);
+}
+
+.profile-card__link {
+    text-decoration: none;
+    color: var(--prime-color);
+    background: white;
+    padding: 7px 10px;
+    border-radius: 20px;
+    font-size: 1.3rem;
+}
+
+.profile-card__link:hover {
+    background: var(--hover-color);
+}
