@@ -1,17 +1,25 @@
 const Home = () => {
     return (
-        <div className="bg-gray-100 min-h-screen">
+        <div className=" min-h-screen ">
             {/* Banner Section */}
-            <section className="banner bg-[#0A7075] text-[#FDE047] py-16 text-center">
+            <section className="banner bg-gradient-to-br from-[#0A7075] to-[#044E50] text-[#FDE047] py-20 text-center shadow-2xl">
                 <div className="container mx-auto px-6">
-                    <h1 className="text-4xl font-bold mb-4">REC SPORTS CLUB</h1>
-                    <p className="text-2xl">Cricket Tournament Player Draft</p>
+                    <div className="relative inline-block mb-8">
+                        <span className="absolute -inset-1 bg-yellow-900 rounded-full blur opacity-30 animate-pulse"></span>
+                        <h1 className="relative text-5xl sm:text-6xl font-extrabold uppercase tracking-wide drop-shadow-lg">
+                            REC Sports Club
+                        </h1>
+                    </div>
+                    <p className="text-2xl sm:text-3xl font-light tracking-wide mb-6 max-w-2xl mx-auto drop-shadow-md">
+                        Cricket Tournament Player Draft
+                    </p>
                 </div>
             </section>
 
+
             {/* Team Owners Section */}
-            <section className="py-16" style={{ backgroundColor: '#032F30' }}>
-                <div className="container mx-auto px-6">
+            <section className="py-16 mt-4" style={{ backgroundColor: '#032F30' }}>
+                <div className="container mx-auto px-6 ">
                     <h2 className="text-3xl font-bold text-center mb-10 text-[#FDE047]">Team Owners & Team Names</h2>
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-8">
                         <div className="bg-[#031716] p-6 rounded-lg shadow-md text-center text-[#FDE047]">
