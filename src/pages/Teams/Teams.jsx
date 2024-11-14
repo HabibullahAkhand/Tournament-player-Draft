@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import playersData from '../../assets/playersData.json';
 
 // Define the team data with player ID arrays
@@ -59,7 +59,7 @@ const Teams = () => {
                     <div
                         key={index}
                         onClick={() => openModal(team)}
-                        className={`flex items-center justify-center h-36 sm:h-48 w-full sm:w-48 rounded-xl shadow-lg text-[#FDE047] text-lg sm:text-2xl font-semibold ${team.gradient} transition transform hover:scale-105 cursor-pointer`}
+                        className={`flex items-center justify-center h-36 sm:h-48 w-full sm:w-48 rounded-xl shadow-lg text-[#FDE047] text-lg sm:text-2xl font-semibold ${team.gradient} transition transform hover:scale-105 cursor-pointer px-8 `}
                     >
                         {team.name}
                     </div>

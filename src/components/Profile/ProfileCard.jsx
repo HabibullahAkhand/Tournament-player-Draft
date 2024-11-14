@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState} from 'react';
 import playersData from '../../assets/playersData.json'; // Adjust the path if necessary
 import './styleProfile.css';
 
