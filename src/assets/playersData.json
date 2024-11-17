@@ -1,542 +1,603 @@
 [
     {
         "id": 1,
-        "name": "Shakib Al Hasan",
-        "price": "10000000",
-        "category": "A",
-        "role": "All Rounder",
-        "description": "One of the best all-rounders in the world, excels in both batting and bowling.",
-        "image": "image_url"
+        "name": "Md.Al Shahriar",
+        "price": "7000000",
+        "category": "B",
+        "role": "Batsman",
+        "description": "Left Hand Batsman.",
+        "image": "https://i.ibb.co.com/Bt0vQf8/2514.jpg"
     },
     {
         "id": 2,
-        "name": "Tamim Iqbal",
-        "price": "9000000",
-        "category": "A",
+        "name": "Md.Asif Hossain",
+        "price": "7000000",
+        "category": "B",
         "role": "Batsman",
-        "description": "Aggressive opening batsman known for his explosive starts and big scores.",
-        "image": "image_url"
+        "description": "Right Hand Batsman",
+        "image": "https://i.ibb.co.com/fCxTJ2q/Whats-App-Image-2024-11-17-at-4-08-07-AM.jpg"
     },
     {
         "id": 3,
-        "name": "Mashrafe Mortaza",
-        "price": "8000000",
-        "category": "B",
-        "role": "Bowler",
-        "description": "Veteran fast bowler known for leadership and accuracy under pressure.",
-        "image": "image_url"
+        "name": "Md.Towhidul Islam Tuhin",
+        "price": "3000000",
+        "category": "D",
+        "role": "Player",
+        "description": "Right Hand Batsman",
+        "image": "https://i.ibb.co.com/KGC4ztN/Picsart-24-11-18-00-38-19-319.jpg"
     },
     {
         "id": 4,
-        "name": "Mushfiqur Rahim",
-        "price": "7500000",
-        "category": "A",
-        "role": "Batsman",
-        "description": "Dependable middle-order batsman with great technique and finishing ability.",
-        "image": "image_url"
+        "name": "Abir Mahamud Jesan",
+        "price": "3000000",
+        "category": "D",
+        "role": "Player",
+        "description": "Right Hand Batsman",
+        "image": "https://i.ibb.co.com/7zfMtJd/60dd99b9-e21a-453b-a8ce-9a437854b34c.jpg"
     },
     {
         "id": 5,
-        "name": "Mustafizur Rahman",
-        "price": "6000000",
-        "category": "B",
-        "role": "Bowler",
-        "description": "Specialist death bowler, known for his deceptive slower deliveries.",
-        "image": "image_url"
+        "name": "Md.Golam Rabbany",
+        "price": "4500000",
+        "category": "C",
+        "role": "Batsman",
+        "description": "Right Hand Batsman",
+        "image": "https://i.ibb.co.com/xC29FWt/2585.jpg"
     },
     {
         "id": 6,
-        "name": "Mahmudullah Riyad",
-        "price": "7000000",
-        "category": "A",
-        "role": "All Rounder",
-        "description": "Experienced all-rounder with the ability to anchor innings and bowl economically.",
-        "image": "image_url"
+        "name": "Md.Tasriful Islam Naeem",
+        "price": "3000000",
+        "category": "D",
+        "role": "Player",
+        "description": "Right Hand Batsman",
+        "image": "https://i.ibb.co.com/KxbRJCX/Whats-App-Image-2024-11-17-at-4-11-34-AM.jpg"
     },
     {
         "id": 7,
-        "name": "Taskin Ahmed",
-        "price": "5000000",
-        "category": "B",
-        "role": "Bowler",
-        "description": "Fast bowler known for his pace and consistency in delivering breakthroughs.",
-        "image": "image_url"
+        "name": "Md.Rokimunjaman Robin",
+        "price": "4500000",
+        "category": "C",
+        "role": "Batsman",
+        "description": "All Rounder",
+        "image": "https://i.ibb.co.com/h7WKvLx/2f492ffb-0f62-4abe-9aee-8ef84e444b1b-1.jpg"
     },
     {
         "id": 8,
-        "name": "Liton Das",
-        "price": "4000000",
-        "category": "C",
-        "role": "Batsman",
-        "description": "Talented top-order batsman with a solid technique and attacking mindset.",
-        "image": "image_url"
+        "name": "Md.Rashed Islam",
+        "price": "3000000",
+        "category": "D",
+        "role": "Player",
+        "description": "Right Hand Batsman",
+        "image": "https://i.ibb.co.com/TMZnNfc/rashed.jpg"
     },
     {
         "id": 9,
-        "name": "Mehidy Hasan",
-        "price": "3000000",
-        "category": "A",
-        "role": "All Rounder",
-        "description": "Off-spinner with the ability to contribute crucial runs in the lower order.",
-        "image": "image_url"
+        "name": "S.M. Nazmus Shakib",
+        "price": "4000000",
+        "category": "C",
+        "role": "Batsman",
+        "description": "Right Hand Batsman",
+        "image": "https://i.ibb.co.com/VTwZLjg/10912a7f-8403-4565-b452-4ae84553b4ed.jpg"
     },
     {
         "id": 10,
-        "name": "Soumya Sarkar",
-        "price": "3500000",
+        "name": "Md.Nazmus Shakib",
+        "price": "7500000",
         "category": "B",
         "role": "All Rounder",
-        "description": "Aggressive batsman and part-time medium-pacer with match-winning capabilities.",
-        "image": "image_url"
+        "description": "Right Hand Batsman",
+        "image": "https://i.ibb.co.com/JRzSQWk/rsz-whatsapp-image-2024-11-17-at-25734-am.jpg"
     },
     {
         "id": 11,
-        "name": "Nasum Ahmed",
-        "price": "2500000",
-        "category": "C",
-        "role": "Bowler",
-        "description": "Skilled left-arm spinner with an eye for exploiting pitch conditions.",
-        "image": "image_url"
+        "name": "Md.Nazim Uddin Niloy",
+        "price": "9000000",
+        "category": "A",
+        "role": "All Rounder",
+        "description": "All Rounder",
+        "image": "https://i.ibb.co.com/Y2fz82b/Whats-App-Image-2024-11-17-at-4-19-50-AM.jpg"
     },
     {
         "id": 12,
-        "name": "Afif Hossain",
-        "price": "1500000",
-        "category": "C",
-        "role": "All Rounder",
-        "description": "Young all-rounder with an aggressive batting approach and useful off-spin.",
-        "image": "image_url"
+        "name": "Md.Farhatus Sium",
+        "price": "3000000",
+        "category": "D",
+        "role": "Player",
+        "description": "Player.",
+        "image": "https://i.ibb.co.com/T8djzHK/2429.jpg"
     },
     {
         "id": 13,
-        "name": "Shoriful Islam",
-        "price": "2800000",
-        "category": "B",
-        "role": "Bowler",
-        "description": "Promising left-arm fast bowler known for his pace and bounce.",
-        "image": "image_url"
+        "name": "Nusrullah Nayeem",
+        "price": "3000000",
+        "category": "D",
+        "role": "Player",
+        "description": "Player",
+        "image": "https://i.ibb.co.com/pzB0h5t/Whats-App-Image-2024-11-17-at-5-48-06-PM.jpg"
     },
     {
         "id": 14,
-        "name": "Mohammad Naim",
-        "price": "1800000",
-        "category": "C",
-        "role": "Batsman",
-        "description": "Steady top-order batsman, capable of building strong innings in limited-overs cricket.",
-        "image": "image_url"
+        "name": "Md.Mehedi Hasan Shawn",
+        "price": "7500000",
+        "category": "B",
+        "role": "All Rounder",
+        "description": "Bowling All Rounder",
+        "image": "https://i.ibb.co.com/0FWHhC7/IMG-20241118-WA0002.jpg"
     },
     {
         "id": 15,
-        "name": "Rubel Hossain",
+        "name": "Nirob Sarkar",
         "price": "3000000",
-        "category": "B",
-        "role": "Bowler",
-        "description": "Fast bowler with a knack for bowling quick yorkers in crucial moments.",
-        "image": "image_url"
+        "category": "D",
+        "role": "Player",
+        "description": "Player.",
+        "image": "https://i.ibb.co.com/hD0fMzV/2566.jpg"
     },
     {
         "id": 16,
-        "name": "Saifuddin",
-        "price": "4000000",
-        "category": "B",
-        "role": "All Rounder",
-        "description": "Medium-pacer and hard-hitting lower-order batsman, adept at finishing games.",
-        "image": "image_url"
+        "name": "Md.Masud Rana",
+        "price": "3000000",
+        "category": "D",
+        "role": "Player",
+        "description": "Right Hand Batsman",
+        "image": "https://i.ibb.co.com/9sFPym7/2576.jpg"
     },
     {
         "id": 17,
-        "name": "Anamul Haque",
-        "price": "2000000",
+        "name": "Md. Sajibul Haque Sajib",
+        "price": "4500000",
         "category": "C",
-        "role": "Batsman",
-        "description": "Explosive opening batsman known for his big hitting and quick starts.",
-        "image": "image_url"
+        "role": "Bowler",
+        "description": "Right Hand Bowler.",
+        "image": "https://i.ibb.co.com/1MD0Lkj/Whats-App-Image-2024-11-17-at-4-27-16-AM.jpg"
     },
     {
         "id": 18,
-        "name": "Mohammad Mithun",
-        "price": "2200000",
+        "name": "Md.Rezwanul Islam",
+        "price": "4500000",
         "category": "C",
-        "role": "Batsman",
-        "description": "Middle-order batsman with the ability to finish games under pressure.",
-        "image": "image_url"
+        "role": "Bowler",
+        "description": "Right Hand Bowler.",
+        "image":"https://i.ibb.co.com/yS8Wcgx/rsz-2whatsapp-image-2024-11-17-at-32701-am.jpg"
+        
     },
     {
         "id": 19,
-        "name": "Nayeem Hasan",
-        "price": "1500000",
+        "name": "Md.Raihan Ali",
+        "price": "4500000",
         "category": "C",
-        "role": "Bowler",
-        "description": "Talented young off-spinner with promising control and variations.",
-        "image": "image_url"
+        "role": "Batsman",
+        "description": "Right Hand Batsman.",
+        "image": "https://i.ibb.co.com/DbwC7P8/c355edf3-d30e-448e-aae6-cb7c4b984466.jpg"
     },
     {
         "id": 20,
-        "name": "Al-Amin Hossain",
-        "price": "3500000",
-        "category": "B",
-        "role": "Bowler",
-        "description": "Right-arm medium pacer, known for consistency and wicket-taking ability in the middle overs.",
-        "image": "image_url"
+        "name": "Shah Ahmed Reza",
+        "price": "3000000",
+        "category": "D",
+        "role": "Player",
+        "description": "Player.",
+        "image": "https://i.ibb.co.com/SBhf0s7/2439.jpg"
     },
     {
         "id": 21,
-        "name": "Mohammad Ashraful",
-        "price": "1000000",
+        "name": "Md.Rajowan",
+        "price": "3000000",
         "category": "D",
-        "role": "Batsman",
-        "description": "Once a teenage sensation, now a seasoned veteran.",
-        "image": "image_url"
+        "role": "Player",
+        "description": "Not Available.",
+        "image": "https://i.ibb.co.com/j5Z217w/460760377-856134380057771-7089097715433064280-n.jpg"
     },
     {
         "id": 22,
-        "name": "Imrul Kayes",
-        "price": "1200000",
+        "name": "Md.Shafayet Hossain",
+        "price": "3000000",
         "category": "D",
-        "role": "Batsman",
-        "description": "Experienced opening batsman with a steady hand.",
-        "image": "image_url"
+        "role": "Player",
+        "description": "Player.",
+        "image": "https://i.ibb.co.com/5W0NjQT/fb2ef471-1342-47c3-9c06-ef1cdaffd6eb.jpg"
     },
     {
         "id": 23,
-        "name": "Ziaur Rahman",
-        "price": "900000",
+        "name": "MD.Adnan Mahfuz",
+        "price": "3000000",
         "category": "D",
-        "role": "All Rounder",
-        "description": "Powerful lower-order hitter and medium-pace bowler.",
-        "image": "image_url"
+        "role": "Batsman",
+        "description": "Right Hand Batsman.",
+        "image": "https://i.ibb.co.com/VQH611R/2559.jpg"
     },
     {
         "id": 24,
-        "name": "Junaid Siddique",
-        "price": "800000",
-        "category": "D",
-        "role": "Batsman",
-        "description": "Stylish top-order batsman, known for his technique.",
-        "image": "image_url"
+        "name": "Shahjaman Sheikh Kownik",
+        "price": "8500000",
+        "category": "B",
+        "role": "Bowler",
+        "description": "Right-arm fast.",
+        "image": "https://i.ibb.co.com/rbPtzHF/Whats-App-Image-2024-11-17-at-4-37-01-AM.jpg"
     },
     {
         "id": 25,
-        "name": "Arafat Sunny",
-        "price": "600000",
-        "category": "D",
-        "role": "Bowler",
-        "description": "Left-arm spinner, handy with his variations in T20s.",
-        "image": "image_url"
+        "name": "Md.Habibullah Akhand",
+        "price": "10000000",
+        "category": "A",
+        "role": "All Rounder",
+        "description": "All Rounder",
+        "image": "https://i.ibb.co.com/THR6SkB/Whats-App-Image-2024-11-17-at-4-33-16-AM.jpg"
     },
     {
         "id": 26,
-        "name": "Sabbir Rahman",
-        "price": "1200000",
-        "category": "D",
-        "role": "Batsman",
-        "description": "Aggressive middle-order batsman with a penchant for big hits.",
-        "image": "image_url"
+        "name": "Md.Shamimur Rahman",
+        "price": "8000000",
+        "category": "B",
+        "role": "All Rounder",
+        "description": "Right-arm fast All Rounder.",
+        "image": "https://i.ibb.co.com/LSxPn9V/Whats-App-Image-2024-11-17-at-4-41-30-AM.jpg"
     },
     {
         "id": 27,
-        "name": "Nazmul Islam",
-        "price": "850000",
+        "name": "Md.Shanto Rahman",
+        "price": "3000000",
         "category": "D",
-        "role": "Bowler",
-        "description": "Left-arm spinner known for his economical bowling in T20 cricket.",
-        "image": "image_url"
+        "role": "Player",
+        "description": "Player.",
+        "image": "https://i.ibb.co.com/0GDcCqk/2557.jpg"
     },
     {
         "id": 28,
-        "name": "Abu Hider Rony",
-        "price": "1000000",
-        "category": "D",
-        "role": "Bowler",
-        "description": "Left-arm pacer with an aggressive approach and variations.",
-        "image": "image_url"
+        "name": "Md.Riyad Hossain",
+        "price": "8000000",
+        "category": "B",
+        "role": "All Rounder",
+        "description": "Batting All Rounder",
+        "image": "https://i.ibb.co.com/Q6Hscpy/Whats-App-Image-2024-11-17-at-4-41-36-AM.jpg"
     },
     {
         "id": 29,
-        "name": "Shuvagata Hom",
-        "price": "1100000",
+        "name": "Sadin Das",
+        "price": "3000000",
         "category": "D",
-        "role": "All Rounder",
-        "description": "Handy lower-order batsman and part-time off-spin bowler.",
-        "image": "image_url"
+        "role": "Player",
+        "description": "Player.",
+        "image": "https://i.ibb.co.com/kGc0W26/2554.jpg"
     },
     {
         "id": 30,
-        "name": "Abu Jayed",
-        "price": "1500000",
-        "category": "C",
-        "role": "Bowler",
-        "description": "Right-arm fast-medium bowler known for swing and seam movement.",
-        "image": "image_url"
+        "name": "S.M.Shakib Ul Alam",
+        "price": "3000000",
+        "category": "D",
+        "role": "Player",
+        "description": "Player",
+        "image": "https://i.ibb.co.com/9T83t8j/rsz-whatsapp-image-2024-11-17-at-45039-am.jpg"
     },
     {
         "id": 31,
-        "name": "Shahriar Nafees",
-        "price": "900000",
-        "category": "D",
+        "name": "Md.Fahim Shakil Antor",
+        "price": "8000000",
+        "category": "B",
         "role": "Batsman",
-        "description": "Veteran left-handed batsman with a solid technique.",
-        "image": "image_url"
+        "description": "(WK) Batsman.",
+        "image": "https://i.ibb.co.com/LrnmxZR/Picsart-24-11-17-17-30-52-344.jpg"
     },
     {
         "id": 32,
-        "name": "Shafiul Islam",
-        "price": "1300000",
-        "category": "D",
-        "role": "Bowler",
-        "description": "Right-arm fast bowler, known for his ability to swing the ball.",
-        "image": "image_url"
+        "name": "Rofiqunnabi Ronobi",
+        "price": "8000000",
+        "category": "B",
+        "role": "All Rounder",
+        "description": "Right Hand Batting All Rounder.",
+        "image": "https://i.ibb.co.com/JQ9sC8N/rsz-whatsapp-image-2024-11-17-at-44715-am.jpg"
     },
     {
         "id": 33,
-        "name": "Nazmul Hossain Shanto",
-        "price": "3200000",
-        "category": "C",
-        "role": "Batsman",
-        "description": "Promising top-order batsman with a strong domestic record.",
-        "image": "image_url"
+        "name": "Md Shoaib Alam Shihab",
+        "price": "9000000",
+        "category": "A",
+        "role": "All Rounder",
+        "description": "Bowlling All Rounder.",
+        "image": "https://i.ibb.co.com/k98cqqY/Picsart-24-11-17-16-54-38-065.jpg"
     },
     {
         "id": 34,
-        "name": "Mohammad Saifuddin",
-        "price": "4200000",
-        "category": "B",
-        "role": "All Rounder",
-        "description": "Bowling all-rounder, effective in death overs and a hard-hitting batsman.",
-        "image": "image_url"
+        "name": "Md.Rakibul Hassan Rafi",
+        "price": "5000000",
+        "category": "C",
+        "role": "Batsman",
+        "description": "Right Hand Batsman.",
+        "image": "https://i.ibb.co.com/c64jcps/2552.jpg"
     },
     {
         "id": 35,
-        "name": "Mominul Haque",
-        "price": "3100000",
+        "name": "Md.Ahsanul Habib Shihab",
+        "price": "4500000",
         "category": "C",
         "role": "Batsman",
-        "description": "Technically sound left-handed batsman, a Test specialist.",
-        "image": "image_url"
+        "description": "Right Hand Batsman.",
+        "image": "https://i.ibb.co.com/DbvywzL/Picsart-24-11-17-16-48-26-456.jpg"
     },
     {
         "id": 36,
-        "name": "Nurul Hasan Sohan",
-        "price": "2100000",
-        "category": "C",
-        "role": "Wicket Keeper",
-        "description": "Dependable wicketkeeper-batsman with aggressive batting style.",
-        "image": "image_url"
+        "name": "Sajib Sarkar",
+        "price": "9500000",
+        "category": "A",
+        "role": "All Rounder",
+        "description": "Batting All Rounder.",
+        "image": "https://i.ibb.co.com/LdNtQ4C/2550.jpg"
     },
     {
         "id": 37,
-        "name": "Shahadat Hossain",
-        "price": "700000",
-        "category": "D",
-        "role": "Bowler",
-        "description": "Tall fast bowler known for bounce and pace.",
-        "image": "image_url"
+        "name": "Ishtiak Ahmed Symon",
+        "price": "10000000",
+        "category": "A",
+        "role": "All Rounder",
+        "description": "Batting All Rounder.",
+        "image": "https://i.ibb.co.com/r51QcWM/rsz-whatsapp-image-2024-11-17-at-45942-am.jpg"
     },
     {
         "id": 38,
-        "name": "Parvez Hossain Emon",
-        "price": "1600000",
-        "category": "C",
-        "role": "Batsman",
-        "description": "Young batsman with explosive hitting capabilities in T20 cricket.",
-        "image": "image_url"
+        "name": "Md.Zahid Hasan",
+        "price": "10000000",
+        "category": "A",
+        "role": "All Rounder",
+        "description": "Batting All Rounder.",
+        "image": "https://i.ibb.co.com/wMR6MTh/Whats-App-Image-2024-11-17-at-5-05-54-AM.jpg"
     },
     {
         "id": 39,
-        "name": "Ebadot Hossain",
-        "price": "2700000",
-        "category": "C",
-        "role": "Bowler",
-        "description": "Right-arm fast bowler with a strong, consistent pace and aggression.",
-        "image": "image_url"
+        "name": "Md.Shazzad Hossain Shaon ",
+        "price": "9500000",
+        "category": "A",
+        "role": "All Rounder",
+        "description": "Batting All Rounder.",
+        "image": "https://i.ibb.co.com/tHnRGHR/Whats-App-Image-2024-11-17-at-5-15-20-AM.jpg"
     },
     {
         "id": 40,
-        "name": "Hasan Mahmud",
-        "price": "2400000",
+        "name": "Md.Rafsan Babu",
+        "price": "4000000",
         "category": "C",
         "role": "Bowler",
-        "description": "Emerging pace bowler known for his aggressive bowling and variations.",
-        "image": "image_url"
+        "description": "Right Hand Bowler.",
+        "image": "https://i.ibb.co.com/N7Hnr0n/7aec825c-03b8-4c0d-93df-ca60d65202bc.jpg"
     },
     {
         "id": 41,
-        "name": "Shamim Hossain",
-        "price": "2500000",
-        "category": "C",
-        "role": "All Rounder",
-        "description": "Dynamic young all-rounder with a powerful batting approach.",
-        "image": "image_url"
+        "name": "Md.Mijanur Rahman",
+        "price": "8500000",
+        "category": "B",
+        "role": "Batsman",
+        "description": "Wicket Keeper.",
+        "image": "https://i.ibb.co.com/wwbmhYH/2547.jpg"
     },
     {
         "id": 42,
-        "name": "Rakibul Hasan",
-        "price": "1200000",
-        "category": "D",
-        "role": "Bowler",
-        "description": "Left-arm spinner, known for his control and economy in limited overs.",
-        "image": "image_url"
+        "name": " Md.Shahporan",
+        "price": "7500000",
+        "category": "B",
+        "role": "Batsman",
+        "description": "Left Hand Batsman.",
+        "image": "https://i.ibb.co.com/rwH7nBZ/f8e6e360-e82f-40e8-9f44-c9897f24a804-Photoroom.png"
     },
     {
         "id": 43,
-        "name": "Rony Talukdar",
-        "price": "1700000",
-        "category": "C",
-        "role": "Batsman",
-        "description": "Aggressive batsman, capable of scoring quick runs at the top order.",
-        "image": "image_url"
+        "name": "Sidthirtho Roy",
+        "price": "8000000",
+        "category": "B",
+        "role": "Bowler",
+        "description": "Right Hand Bowler.",
+        "image": "https://i.ibb.co.com/mSJGxjP/79cf4713-f224-4899-8f61-56238c602280-Photoroom.png"
     },
     {
         "id": 44,
-        "name": "Yasir Ali",
-        "price": "1300000",
-        "category": "C",
-        "role": "Batsman",
-        "description": "Middle-order batsman with a strong domestic performance record.",
-        "image": "image_url"
+        "name": "Asaduzzaman Riyad",
+        "price": "7500000",
+        "category": "B",
+        "role": "All Rounder",
+        "description": "Batting All Rounder",
+        "image": "https://i.ibb.co.com/7nH1LxY/c5ca1df1-4118-4097-a9b6-2c5e0e04d88d-Photoroom.png"
     },
     {
         "id": 45,
-        "name": "Mahedi Hasan",
-        "price": "3700000",
-        "category": "B",
-        "role": "All Rounder",
-        "description": "Versatile all-rounder, effective as a power hitter and an off-spin bowler.",
-        "image": "image_url"
+        "name": "Kawsar Sarkar",
+        "price": "3000000",
+        "category": "D",
+        "role": "Player",
+        "description": "Player.",
+        "image": "https://i.ibb.co.com/C13bJQJ/IMG-20241118-WA0014.jpg"
     },
     {
         "id": 46,
-        "name": "Khaled Ahmed",
-        "price": "1300000",
+        "name": "Joy Sarker",
+        "price": "3000000",
         "category": "D",
-        "role": "Bowler",
-        "description": "Pace bowler with good bounce and length variations.",
-        "image": "image_url"
+        "role": "Batsman",
+        "description": "Right Hand Batsman.",
+        "image": "https://i.ibb.co.com/wpQyj7L/2581.jpg"
     },
     {
         "id": 47,
-        "name": "Shadman Islam",
-        "price": "1900000",
-        "category": "C",
+        "name": "Md Rakib Hasan",
+        "price": "10000000",
+        "category": "A",
         "role": "Batsman",
-        "description": "Opening batsman, known for his patient and solid technique.",
-        "image": "image_url"
+        "description": "Right Hand Batsman.",
+        "image": "https://i.ibb.co.com/8B9bZV8/rakib-bhai.png"
     },
     {
         "id": 48,
-        "name": "Nadif Chowdhury",
-        "price": "1000000",
+        "name": "MD Fardin Islam Abid",
+        "price": "3000000",
         "category": "D",
-        "role": "All Rounder",
-        "description": "Experienced all-rounder, known for his calm finishing with the bat.",
-        "image": "image_url"
+        "role": "Player",
+        "description": "Right Hand Batsman",
+        "image": "https://i.ibb.co.com/4RpgShj/2543.jpg"
     },
     {
         "id": 49,
-        "name": "Kamrul Islam Rabbi",
-        "price": "900000",
+        "name": "Md Ataur Rahman",
+        "price": "3000000",
         "category": "D",
-        "role": "Bowler",
-        "description": "Medium-fast bowler with good line and length control.",
-        "image": "image_url"
+        "role": "Player",
+        "description": "Right Hand Batsman.",
+        "image": "https://i.ibb.co.com/9yJ1Jgf/2590.jpg"
     },
     {
         "id": 50,
-        "name": "Mohor Sheikh",
-        "price": "700000",
-        "category": "D",
-        "role": "Bowler",
-        "description": "Right-arm medium pacer, known for his economical spells in T20 cricket.",
-        "image": "image_url"
+        "name": "Md Tajmirul Al Hasan",
+        "price": "5000000",
+        "category": "C",
+        "role": "Bowler ",
+        "description": "Batting All Rounder.",
+        "image": "https://i.ibb.co.com/0cmwtzc/IMG-20241118-WA0003.jpg"
     },
     {
         "id": 51,
-        "name": "Sanjamul Islam",
-        "price": "850000",
+        "name": "Md Musanna Al Galib",
+        "price": "3000000",
         "category": "D",
-        "role": "Bowler",
-        "description": "Left-arm orthodox spinner, effective in restricting runs.",
-        "image": "image_url"
+        "role": "Player",
+        "description": "Player.",
+        "image": "https://i.ibb.co.com/42t9Pb0/2431.jpg"
     },
     {
         "id": 52,
-        "name": "Alok Kapali",
-        "price": "1200000",
+        "name": "Shoib Arafath Nirob",
+        "price": "3000000",
         "category": "D",
-        "role": "All Rounder",
-        "description": "Veteran all-rounder, known for his leg-spin and lower-order batting.",
-        "image": "image_url"
+        "role": "Player",
+        "description": "Player.",
+        "image": "https://i.ibb.co.com/DfkmyLq/2578.jpg"
     },
     {
         "id": 53,
-        "name": "Sohag Gazi",
-        "price": "1500000",
-        "category": "C",
+        "name": "Shohanor Rahman Roktim",
+        "price": "7500000",
+        "category": "B",
         "role": "All Rounder",
-        "description": "Off-spinning all-rounder, notable for his useful contributions with the bat.",
-        "image": "image_url"
+        "description": "Batting All Rounder.",
+        "image": "https://i.ibb.co.com/yn4fDfG/2540.jpg"
     },
     {
         "id": 54,
-        "name": "Nazmul Apu",
-        "price": "1100000",
+        "name": "ABD Shams",
+        "price": "3000000",
         "category": "D",
-        "role": "Bowler",
-        "description": "Economical left-arm spinner, effective in white-ball cricket.",
-        "image": "image_url"
-    },
-    {
-        "id": 55,
-        "name": "Tanzim Hasan Sakib",
-        "price": "1700000",
-        "category": "C",
-        "role": "Bowler",
-        "description": "Promising young fast bowler, known for pace and sharp bouncers.",
-        "image": "image_url"
+        "role": "Player",
+        "description": "Outstanding Player.",
+        "image": "https://i.ibb.co.com/SwRbHRd/2538.jpg"
     },
     {
         "id": 56,
-        "name": "Mrittunjoy Chowdhury",
-        "price": "900000",
+        "name": "Mahadi Hasan",
+        "price": "3000000",
         "category": "D",
-        "role": "Bowler",
-        "description": "Left-arm pacer with swing capabilities, effective in new-ball situations.",
-        "image": "image_url"
+        "role": "Player",
+        "description": "Player.",
+        "image": "https://i.ibb.co.com/xzSGYyK/2594.jpg"
     },
     {
         "id": 57,
-        "name": "Jaker Ali",
-        "price": "800000",
+        "name": "Milon Kisku",
+        "price": "3000000",
         "category": "D",
-        "role": "Wicket Keeper",
-        "description": "Wicketkeeper-batsman, known for his tidy glovework and finishing skills.",
-        "image": "image_url"
+        "role": "Player",
+        "description": "Player.",
+        "image": "https://i.ibb.co.com/1ZVhby2/2506.jpg"
     },
     {
         "id": 58,
-        "name": "Akbar Ali",
-        "price": "1400000",
-        "category": "C",
-        "role": "Wicket Keeper",
-        "description": "Young wicketkeeper-batsman, captained the Under-19 team to World Cup glory.",
-        "image": "image_url"
+        "name": "Md Rakib Sarker Badhon",
+        "price": "7500000",
+        "category": "B",
+        "role": "Batsman",
+        "description": "Right Hand Batsman.",
+        "image": "https://i.ibb.co.com/fF1qMyz/2533.jpg"
     },
     {
         "id": 59,
-        "name": "Hossain Ali",
-        "price": "700000",
-        "category": "D",
-        "role": "Bowler",
-        "description": "Emerging fast bowler, known for his raw pace and aggression.",
-        "image": "image_url"
+        "name": "Adib",
+        "price": "10000000",
+        "category": "A",
+        "role": "All Rounder",
+        "description": "Batting All Rounder.",
+        "image": "https://i.ibb.co.com/Kr1xYgD/img-1-1731863816720.webp"
     },
     {
         "id": 60,
-        "name": "Amir Hossain",
-        "price": "750000",
-        "category": "D",
-        "role": "Bowler",
-        "description": "Left-arm orthodox spinner, effective with variations in limited overs cricket.",
-        "image": "image_url"
+        "name": "Shakkhor",
+        "price": "10000000",
+        "category": "A",
+        "role": "All Rounder",
+        "description": "Batting All Rounder.",
+        "image": "https://i.ibb.co.com/C6MDzZ0/2530.jpg"
+    },
+    {
+        "id": 61,
+        "name": "Riad ",
+        "price": "10000000",
+        "category": "A",
+        "role": "Batsman",
+        "description": "Right Hand Batsman.",
+        "image": "https://i.ibb.co.com/mDD2nKx/441709971-1635987777221480-6802083836126322316-n.jpg"
+    },
+    {
+        "id": 62,
+        "name": "Mitul",
+        "price": "12000000",
+        "category": "A",
+        "role": "All Rounder",
+        "description": "Batting All Rounder.",
+        "image": "https://i.ibb.co.com/3ThmX6W/2526.jpg"
+    },
+    {
+        "id": 63,
+        "name": "Limon sir",
+        "price": "4500000",
+        "category": "C",
+        "role": "All Rounder",
+        "description": "Batting All Rounder.",
+        "image": "https://i.ibb.co.com/dmwNRH6/2524.jpg"
+    },
+    {
+        "id": 64,
+        "name": "Ovee sir",
+        "price": "8000000",
+        "category": "B",
+        "role": "Batsman",
+        "description": "Right Hand Batsman.",
+        "image": "https://i.ibb.co.com/ZXmFJVx/2563.jpg"
+    },
+    {
+        "id": 65,
+        "name": "polash sir",
+        "price": "4500000",
+        "category": "C",
+        "role": "Batsman",
+        "description": "Right Hand Batsman.",
+        "image": "https://i.ibb.co.com/X59pvsF/2522.jpg"
+    },
+    {
+        "id": 66,
+        "name": "shakib",
+        "price": "8500000",
+        "category": "B",
+        "role": "Batsman",
+        "description": "Right Hand Batsman.",
+        "image": "https://i.ibb.co.com/0cbZ3Sv/2520.jpg"
+    },
+    {
+        "id": 67,
+        "name": "dibbo",
+        "price": "8500000",
+        "category": "B",
+        "role": "Batsman",
+        "description": "Wicket Keeper Batsman",
+        "image": "https://i.ibb.co.com/MSjHLXN/2516.jpg"
     }
 ]
+
+
+
+
+
+

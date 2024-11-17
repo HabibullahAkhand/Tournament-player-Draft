@@ -1,11 +1,11 @@
-import React from 'react';
+
 
 const PointTable = () => {
     const teams = [
-        { name: 'Team A', matches: 10, wins: 7, losses: 3, points: 14 },
-        { name: 'Team B', matches: 10, wins: 5, losses: 5, points: 10 },
-        { name: 'Team C', matches: 10, wins: 6, losses: 4, points: 12 },
-        { name: 'Team D', matches: 10, wins: 3, losses: 7, points: 6 },
+        { name: 'Team A', matches: 0, wins: 0, losses: 0, points: 0 },
+        { name: 'Team B', matches: 0, wins: 0, losses: 0, points: 0 },
+        { name: 'Team C', matches: 0, wins: 0, losses: 0, points: 0 },
+        { name: 'Team D', matches: 0, wins: 0, losses: 0, points: 0},
     ];
 
     return (

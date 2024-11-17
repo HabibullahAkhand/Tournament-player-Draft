@@ -7,6 +7,7 @@ import Home from "../pages/Home/Home";
 import Teams from "../pages/Teams/Teams";
 import Fixtures from "../pages/Fixtures/Fixtures";
 import PointTable from "../pages/PointTable/PointTable";
+import RunScore from "../pages/RunScore/RunScore";
 
 
 export const router = createBrowserRouter([

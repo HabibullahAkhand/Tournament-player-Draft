@@ -3,10 +3,10 @@ import playersData from '../../assets/playersData.json';
 
 // Define the team data with player ID arrays
 const teams = [
-    { name: 'Team A', gradient: 'bg-[#031716]', playerIds: [1, 5, 9, 13, 17, 21, 25, 29, 33, 37, 41, 45, 49, 53, 57] },
-    { name: 'Team B', gradient: 'bg-[#032F30]', playerIds: [2, 6, 10, 14, 18, 22, 26, 30, 34, 38, 42, 46, 50, 54, 58] },
-    { name: 'Team C', gradient: 'bg-[#6BA3BE]', playerIds: [3, 7, 11, 15, 19, 23, 27, 31, 35, 39, 43, 47, 51, 55, 59] },
-    { name: 'Team D', gradient: 'bg-[#274D60]', playerIds: [4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60] }
+    { name: 'Team A', gradient: 'bg-[#031716]', playerIds: [] },
+    { name: 'Team B', gradient: 'bg-[#032F30]', playerIds: [] },
+    { name: 'Team C', gradient: 'bg-[#6BA3BE]', playerIds: [] },
+    { name: 'Team D', gradient: 'bg-[#274D60]', playerIds: [] }
 ];
 
 // Function to assign players to teams based on specified player IDs

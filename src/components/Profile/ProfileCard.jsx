@@ -102,13 +102,13 @@ const ProfileCard = () => {
                         <div className="profile-card__card shadow-2xl shadow-[#095725]">
                             <div className="profile-card__profile-pic">
                                 <img
-                                    src="https://i.ibb.co/0nPFx8T/d0506eda99d84993b8c4822f21f51966.jpg"
+                                    src={player.image}
                                     alt="Profile"
                                 />
                             </div>
                             <div className="profile-card__details">
                                 <div className="profile-card__content">
-                                    <div className="bg-black bg-opacity-25 rounded-l-2xl">
+                                    <div className="bg-black bg-opacity-25 rounded-l-2xl md:pr-20">
                                         <h2>
                                             <span className="opacity-75">Category</span>{' '}
                                             <span className="font-extrabold">{player.category}</span>

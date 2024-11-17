@@ -1,9 +1,9 @@
 const Fixtures = () => {
     const fixtures = [
-        { date: 'Nov 20, 2024', time: '3:00 PM', teams: 'Team A vs Team B', location: 'Stadium 1' },
-        { date: 'Nov 22, 2024', time: '5:00 PM', teams: 'Team C vs Team D', location: 'Stadium 2' },
-        { date: 'Nov 25, 2024', time: '7:00 PM', teams: 'Team B vs Team C', location: 'Stadium 3' },
-        { date: 'Nov 28, 2024', time: '3:00 PM', teams: 'Team D vs Team A', location: 'Stadium 4' },
+        { date: '', time: '', teams: '', location: '' },
+        { date: '', time: '', teams: '', location: '' },
+        { date: '', time: '', teams: '', location: '' },
+        { date: '', time: '', teams: '', location: '' },
     ];
 
     return (
