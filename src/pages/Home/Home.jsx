@@ -9,7 +9,7 @@ const Home = () => {
                     <div className="relative inline-block mb-8">
                         <span className="absolute -inset-1 bg-yellow-500 rounded-full blur opacity-30 animate-pulse"></span>
                         <h1 className="relative text-5xl sm:text-6xl font-extrabold uppercase tracking-wide text-[#FFD700] drop-shadow-lg">
-                            REC Sports Club
+                            EPL 2024
                         </h1>
                     </div>
                     <p className="text-2xl sm:text-3xl font-light tracking-wide max-w-2xl mx-auto mt-4 text-[#c5e4e7] drop-shadow-md">
@@ -26,10 +26,10 @@ const Home = () => {
                     </h2>
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-8">
                         {[
-                            { owner: 'John Doe', team: 'Warriors' },
-                            { owner: 'Jane Smith', team: 'Tigers' },
-                            { owner: 'Alice Johnson', team: 'Eagles' },
-                            { owner: 'Bob Lee', team: 'Lions' }
+                            { owner: 'Miratul', team: 'A' },
+                            { owner: 'Mijan', team: 'B' },
+                            { owner: 'Shams', team: 'C' },
+                            { owner: 'Limon and Arif', team: 'D' }
                         ].map((item, index) => (
                             <div
                                 key={index}

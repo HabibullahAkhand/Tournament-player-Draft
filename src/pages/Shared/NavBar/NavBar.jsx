@@ -33,7 +33,7 @@ const NavBar = () => {
             {/* Navbar Start - Logo & Dropdown Menu Button */}
             <div className="navbar-start flex items-center">
                 <a className="btn btn-ghost normal-case text-2xl font-extrabold tracking-wide">
-                    ⚽ REC Tournament
+                    ⚽ REC Sports Club
                 </a>
                 {/* Toggle Button for Small Screens */}
                 <button 
