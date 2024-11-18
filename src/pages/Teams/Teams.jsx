@@ -3,10 +3,11 @@ import playersData from '../../assets/playersData.json';
 
 // Define the team data with player ID arrays
 const teams = [
-    { name: 'Team A', gradient: 'bg-[#031716]', playerIds: [] },
-    { name: 'Team B', gradient: 'bg-[#032F30]', playerIds: [] },
-    { name: 'Team C', gradient: 'bg-[#6BA3BE]', playerIds: [] },
-    { name: 'Team D', gradient: 'bg-[#274D60]', playerIds: [] }
+    { name: 'Phroton Falkons', gradient: 'bg-[#031716]', playerIds:[62, 2, 5, 10, 19, 16, 59, 60, 61, 65, 68, 30, 51, 57, 9] },
+    { name: 'Talukder Sporting Club', gradient: 'bg-[#032F30]', playerIds: [41, 33, 36, 24, 18, 34, 44, 63, 23, 53, 58, 64, 45, 67, 29] },
+    { name: 'ICE BREAKERS', gradient: 'bg-[#6BA3BE]', playerIds: [28,15,11,1,7,25,39,26,31,12,32,43,40,22,20] },
+    { name: 'Teesta Smashers', gradient: 'bg-[#274D60]', playerIds: [38, 14, 17, 37, 47, 35, 66, 56, 69, 50, 13
+        , 42, 27, 46, 49] }
 ];
 
 // Function to assign players to teams based on specified player IDs
@@ -82,7 +83,8 @@ const Teams = () => {
                                         <th className="border-b-2 py-2 px-2 sm:px-4 text-gray-700">Name</th>
                                         <th className="border-b-2 py-2 px-2 sm:px-4 text-gray-700">Category</th>
                                         <th className="border-b-2 py-2 px-2 sm:px-4 text-gray-700">Role</th>
-                                        <th className="border-b-2 py-2 px-2 sm:px-4 text-gray-700">Price</th>
+                                        <th className="border-b-2 py-2 px-2 sm:px-4 text-gray-700">Base Price</th>
+                                        <th className="border-b-2 py-2 px-2 sm:px-4 text-gray-700">Final Price</th>
                                     </tr>
                                 </thead>
                                 <tbody>
